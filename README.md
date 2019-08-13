@@ -17,3 +17,6 @@ The replenishment of majority of raw materials is done on weekly basis and since
 
 # Data Description
 Uploaded along with the code
+
+# Data Source
+https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon/
